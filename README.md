@@ -1,4 +1,5 @@
 # cart-shop-unfinished-project- <br>
+![](fruits.png)
 Make sure django updated version is installed <br>
 step 1: run python virtual environment <br>
 step 2: goto folder where manage.py is. <br>
